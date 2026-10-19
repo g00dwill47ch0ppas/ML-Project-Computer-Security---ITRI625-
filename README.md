@@ -24,4 +24,4 @@ Download **Phishing_Email.csv** from Kaggle ("Phishing Email Dataset") into this
 3. `python gui.py`
 
 ## Results
-_Fill in after running: test accuracy / precision / recall / F1 / AUC for BiLSTM vs baseline._
+
